@@ -1,4 +1,4 @@
-# dapp01
+# Scorez DAPP = football decentralised game
 
 Premier League football pools Decentralised. Join a pool; 
 - bet with ETH; 
