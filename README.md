@@ -6,7 +6,10 @@ Premier League football pools Decentralised. Join a pool;
 - invite your mates;
 -  winner takes all!
 
- - https://www.scorez.io 
- - https://www.scorez.app
+
  
 This is a product of TouchTab Media Ltd. 
+Play it online: 
+
+ - https://www.scorez.io 
+ - https://www.scorez.app
